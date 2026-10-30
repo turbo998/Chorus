@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
-    "astro": "^6.1.4",
+    "astro": "^7.3.3",
     "rehype-external-links": "^3.0.0"
   }
 }
